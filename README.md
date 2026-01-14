@@ -1,5 +1,7 @@
 Workout Website
 
+![Website project screenshot](https://github.com/Jellu28/Workout/blob/main/Screenshot%202026-01-14%20at%2023.28.29.png)
+
 < Project Overview >
 
 This repository contains a Workout Website created exclusively for educational and portfolio purposes, to demonstrate frontend development skills and practical experience with Vue.js and Webpack module bundler.
