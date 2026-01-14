@@ -55,3 +55,5 @@ Jelena Kapanen
 Full Stack Developer (Junior)
 Finland Ylöjärvi
 Contact me through GitHub profile or by email: 'jel.shk@gmail.com'
+
+![Website project screenshot](https://github.com/Jellu28/Workout/blob/main/Screenshot%202026-01-14%20at%2023.46.19.png)
